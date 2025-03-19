@@ -7,7 +7,7 @@ aprox=input('Ingrese el valor aproximar: ');
 n=length(X);
 F=zeros(n);
 F(:,1)=Y;
-for j=2:n %desde la columna 2 n
+for j=2:n 
     for i=j:n 
        F(i,j)=(F(i-1,j-1)-F(i,j-1))/(X(i-j+1)-X(i)); 
     end
