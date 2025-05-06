@@ -1,10 +1,8 @@
 <h1>Aplicación de Métodos Numéricos</h1>
-<p>Programas hechos en matlab hechos por mí, otros tomados del material didáctico proporcionado por el docente durante clases y algunas contribución de otros estudiantes.</p>
-<p>Están separados por carpetas de los tres periódos que se imparten en un ciclo lectivo.</p>
+<p>Programas de matlab realizados por mí, material didáctico proporcionado por el docente durante clases y contribuciones de algunos estudiantes.</p>
 
 <h2>📂 Indice</h2>
 <h3>Período 1</h3>
-
 <p>- <a href="https://github.com/i-ashy/Aplicacion_de_Metodos_Numericos/blob/main/Periódo%201%20-%20Interpolación%20y%20aproximación%20lineal%20con%20una%20variable/biseccion.m">Método de Bisección</a></p>
 <p>- <a href="https://github.com/i-ashy/Aplicacion_de_Metodos_Numericos/blob/main/Periódo%201%20-%20Interpolación%20y%20aproximación%20lineal%20con%20una%20variable/newton_rhapson.m">Método de Newton-Rhapson</a></p>
 <p>- <a href="https://github.com/i-ashy/Aplicacion_de_Metodos_Numericos/blob/main/Periódo%201%20-%20Interpolación%20y%20aproximación%20lineal%20con%20una%20variable/punto_fijo.m">Método de Punto Fijo</a></p>
