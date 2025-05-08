@@ -1,10 +1,10 @@
 syms t x y
 disp('Sistema de ecuaciones lineales')
-f=input('Ingrese la ecuación diferencial dy/dt: ');
-g=input('Ingrese la ecuación diferencial dx/dt: ');
+f=input('Ingrese la ecuaciÃ³n diferencial dx/dt: ');
+g=input('Ingrese la ecuaciÃ³n diferencial dy/dt: ');
 intervalo=input('Ingrese el intervalo [a,b]: ');
-y0=input('Ingrese el valor inicial y0: ');
 x0=input('Ingrese el valor inicial x0: ');
+y0=input('Ingrese el valor inicial y0: ');
 F=input('Ingrese la solucion de la ecuacion diferencial: ');
 h=input('Ingrese el valor de h: ');
 a=intervalo(1);

@@ -1,6 +1,6 @@
 syms t y
 disp('metodo de runge-kutta')
-f=input('ingrese la ecuación diferencial dy/dt: ');
+f=input('ingrese la ecuaciÃ³n diferencial dy/dt: ');
 intervalo=input('ingrese el intervalo [a,b]: ');
 y0=input('ingrese el valor inicial: ');
 F=input('ingrese la solucion de la ecuacion diferencial: ');
@@ -25,7 +25,7 @@ fprintf('%.15f\t || %.9f\t || %.9f\t || %.9f\t || %.9f\t || %.15f\t || %.15f\t |
 for i=1:n
     k1=subs(f,{t,y},{T(i),Y(i)});
     k2=subs(f,{t,y},{T(i)+b1*h,Y(i)+c11*h*k1});
-    k3=subs(f,{t,y},{T(i)+b2*h,Y(i)+c21*h*k2+c22*h*k2});
+    k3=subs(f,{t,y},{T(i)+b2*h,Y(i)+c21*h*k1+c22*h*k2});
     Y(i+1) = Y(i)+h*(a1*k1+a2*k2+a3*k3);
     exacta=subs(F,T(i+1));
     error=abs(exacta-Y(i+1));
