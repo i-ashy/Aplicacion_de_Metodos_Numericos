@@ -22,6 +22,10 @@
 <p>- <a href="https://github.com/i-ashy/Aplicacion_de_Metodos_Numericos/blob/main/Periodo%202/Parcial%202/Richardson.m">Método de Richardson</a></p>
 <p>- <a href="https://github.com/i-ashy/Aplicacion_de_Metodos_Numericos/blob/main/Periodo%202/Parcial%202/Romberg.m">Método de Romberg</a></p>
 <p>- <a href="https://github.com/i-ashy/Aplicacion_de_Metodos_Numericos/blob/main/Periodo%202/Parcial%202/Cuadratura_gaussiana.m">Método de Cuadratura Gaussiana</a></p>
+<h4>Trabajo de Investigación</h4>
+<p>- <a href="https://github.com/i-ashy/Aplicacion_de_Metodos_Numericos/blob/main/Trabajo%20de%20Investigacion/regresion_lineal.m">Regresión Lineal por Mínimos Cuadrados</a></p>
+<p>- <a href="https://github.com/i-ashy/Aplicacion_de_Metodos_Numericos/blob/main/Trabajo%20de%20Investigacion/regresion_lineal_exponencial.m">Regresión Lineal Exponencial por Mínimos Cuadrados</a></p>
+<p>- <a href="https://github.com/i-ashy/Aplicacion_de_Metodos_Numericos/blob/main/Trabajo%20de%20Investigacion/regresion_polinomial.m">Regresión Polinomial por Mínimos Cuadrados</a></p>
 <h3>Período 3 - Solución de ecuaciones (y sistemas) diferenciales</h3>
 <h4>Métodos de Runge-Kutta</h4>
 <p>- <a href="https://github.com/i-ashy/Aplicacion_de_Metodos_Numericos/blob/main/Periodo%203/euler_mejorado.m">Método de Euler Mejorado</a></p>
