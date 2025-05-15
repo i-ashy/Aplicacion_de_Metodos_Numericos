@@ -34,3 +34,5 @@
 <p>- <a href="https://github.com/i-ashy/Aplicacion_de_Metodos_Numericos/blob/main/Periodo%203/runge_kutta_o4.m">Método RK Orden 4</a></p>
 <p>- <a href="https://github.com/i-ashy/Aplicacion_de_Metodos_Numericos/blob/main/Periodo%203/sistemas_EDL.m">Método para Sistemas EDO</a></p>
 <p>- <a href="https://github.com/i-ashy/Aplicacion_de_Metodos_Numericos/blob/main/Periodo%203/rk_new_variables.m">Método RK con nuevas variables</a></p>
+<p>- <a href="https://github.com/i-ashy/Aplicacion_de_Metodos_Numericos/blob/main/Periodo%203/ED_Orden3.m">Método para ED de orden 3</a></p>
+<p>- <a href="https://github.com/i-ashy/Aplicacion_de_Metodos_Numericos/blob/main/Periodo%203/ED_Orden4.m">Método para ED de orden 4</a></p>
